@@ -1,3 +1,4 @@
+#coding=utf-8
 from PIL import Image
 import traceback
 import python_getpic
